@@ -1,0 +1,14 @@
+{
+  "input_path": "../1st_task/out",
+  "output_path": "artifacts",
+  "train_day": 30,
+  "test_day": 60,
+  "horizon_days": 30,
+  "window_days": 14,
+  "seed": 42,
+  "validation_fraction": 0.2,
+  "logistic_max_iter": 500,
+  "xgb_estimators": 100,
+  "xgb_max_depth": 4,
+  "threads": 4
+}
